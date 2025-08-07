@@ -47,7 +47,6 @@ Travel agencies, on the other hand, can:
 
 ---
 
-
 ## 🚀 Getting Started
 
 ### Prerequisites
